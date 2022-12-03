@@ -1,4 +1,3 @@
-[![MasterHead](https://wallpapercave.com/wp/wp4932351.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gaurav Ahuja</h1>
 <h3 align="center">A Data Science Enthusiast with a strong knowledge of Machine Learning and Data Analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
